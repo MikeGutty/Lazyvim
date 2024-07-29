@@ -19,7 +19,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.lang.clangd" }, -- C++
     { import = "lazyvim.plugins.extras.lang.python" }, -- Python
     { import = "lazyvim.plugins.extras.lang.ruby" }, -- Ruby
-    -- { import = "lazyvim.plugins.extras.ui.mini-animate" },
+    { import = "lazyvim.plugins.extras.ui.mini-animate" },
     -- import/override with your plugins
     { import = "plugins" },
   },
