@@ -17,8 +17,10 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.lang.vue" },
     -- Lenguajes de programacion
     { import = "lazyvim.plugins.extras.lang.clangd" }, -- C++
+    { import = "lazyvim.plugins.extras.lang.docker" }, -- Docker
     { import = "lazyvim.plugins.extras.lang.python" }, -- Python
     { import = "lazyvim.plugins.extras.lang.ruby" }, -- Ruby
+    -- UI
     { import = "lazyvim.plugins.extras.ui.mini-animate" },
     -- import/override with your plugins
     { import = "plugins" },
