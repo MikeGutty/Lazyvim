@@ -16,7 +16,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.lang.angular" },
     { import = "lazyvim.plugins.extras.lang.vue" },
     -- Markdown
-    { import = "lazyvim.plugins.extras.lang.markdown" },
+    -- { import = "lazyvim.plugins.extras.lang.markdown" },
     -- Lenguajes de programacion
     { import = "lazyvim.plugins.extras.lang.clangd" }, -- C++
     { import = "lazyvim.plugins.extras.lang.docker" }, -- Docker
