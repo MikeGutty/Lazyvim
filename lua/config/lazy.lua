@@ -37,7 +37,7 @@ require("lazy").setup({
     { import = "lazyvim.plugins.extras.ui.mini-animate" },
     { import = "lazyvim.plugins.extras.ui.mini-indentscope" },
     -- AI
-    { import = "lazyvim.plugins.extras.ai.codeium" },
+    -- { import = "lazyvim.plugins.extras.ai.codeium" },
     -- import/override with your plugins
     { import = "plugins" },
   },
