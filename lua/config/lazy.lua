@@ -21,17 +21,17 @@ require("lazy").setup({
     -- CMP
     { import = "lazyvim.plugins.extras.coding.nvim-cmp" },
     -- import any extras modules here
-    { import = "lazyvim.plugins.extras.lang.markdown" },
-    { import = "lazyvim.plugins.extras.lang.json" },
-    { import = "lazyvim.plugins.extras.lang.astro" },
-    { import = "lazyvim.plugins.extras.lang.tailwind" },
-    { import = "lazyvim.plugins.extras.lang.angular" },
-    { import = "lazyvim.plugins.extras.lang.vue" },
+    -- { import = "lazyvim.plugins.extras.lang.markdown" },
+    -- { import = "lazyvim.plugins.extras.lang.json" },
+    -- { import = "lazyvim.plugins.extras.lang.astro" },
+    -- { import = "lazyvim.plugins.extras.lang.tailwind" },
+    -- { import = "lazyvim.plugins.extras.lang.angular" },
+    -- { import = "lazyvim.plugins.extras.lang.vue" },
     -- Lenguajes de programacion
     { import = "lazyvim.plugins.extras.lang.typescript" },
-    { import = "lazyvim.plugins.extras.lang.clangd" }, -- C++
-    { import = "lazyvim.plugins.extras.lang.docker" }, -- Docker
-    { import = "lazyvim.plugins.extras.lang.python" }, -- Python
+    -- { import = "lazyvim.plugins.extras.lang.clangd" }, -- C++
+    -- { import = "lazyvim.plugins.extras.lang.docker" }, -- Docker
+    -- { import = "lazyvim.plugins.extras.lang.python" }, -- Python
     { import = "lazyvim.plugins.extras.lang.ruby" }, -- Ruby
     -- UI
     { import = "lazyvim.plugins.extras.ui.mini-animate" },
